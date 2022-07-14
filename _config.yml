@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quanyu Long"
+title                    : "Quanyu Long / 龙泉羽"
 title_separator          : "-"
 name                     : &name "Quanyu Long"
 description              : &description "My personal website"
@@ -17,7 +17,9 @@ repository               : "ruyue0001/ruyue0001.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -62,7 +64,7 @@ facebook:
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles:
+# - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -83,8 +85,10 @@ author:
   bio              : "Ph.D. student at Nanyang Technological University (NTU)"
   location         : "Singapore"
   employer         :
-  googlescholar    : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=l61TCPAAAAAJ&hl=en"
   email            : "quanyu001@e.ntu.edu.sg"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -92,16 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "ruyue0001"
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
@@ -124,22 +129,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -151,7 +157,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "<!--more-->"
+excerpt_separator: "\n\n"
 incremental: false
 
 
@@ -192,9 +198,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: flase
-      share: false
+      read_time: true
+      comments: true
+      share: true
       related: true
   # _pages
   - scope:
@@ -219,8 +225,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comments: false
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -237,7 +243,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: false
+      share: true
 
 # Sass/SCSS
 sass:
@@ -253,7 +259,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -303,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-cayman

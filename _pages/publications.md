@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*    **Quanyu Long**, Tianze Luo, Wenya Wang, Sinno Pan. [Domain Confused Contrastive Learning for Unsupervised Domain Adaptation](<https://arxiv.org/abs/2207.04564>). NAACL 2022.
+*    **Quanyu Long**, Tianze Luo, Wenya Wang, Sinno Pan. Domain Confused Contrastive Learning for Unsupervised Domain Adaptation. NAACL 2022.
 
 *    **Quanyu Long**, Mingxuan Wang, Lei Li. [Generative Imagination Elevates Machine Translation](<https://arxiv.org/abs/2009.09654>). NAACL 2021.
 
