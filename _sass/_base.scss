@@ -1,16 +1,10 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
-html {
-  /* sticky footer fix */
-  position: relative;
-  min-height: 100%;
-}
 
 body {
   margin: 0;
   padding: 0;
-  padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
@@ -112,11 +106,14 @@ blockquote {
 /* links */
 
 a {
+  color: inherit;
   &:focus {
     @extend %tab-focus;
   }
 
-  &:hover,
+  &:hover {
+      text-decoration: underline;
+    },
   &:active {
     outline: 0;
   }
