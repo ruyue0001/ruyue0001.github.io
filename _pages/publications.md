@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-*    <u><em>Quanyu Long</em></u>, Wenya Wang, Sinno Pan. [Adapt in Contexts: Effective Domain Adaptation via In-Context Learning]. EMNLP 2023.
+*    <u><em>Quanyu Long</em></u>, Wenya Wang, Sinno Pan. [Adapt in Contexts: Retrieval-Augmented Domain Adaptation via In-Context Learning](<https://arxiv.org/abs/2311.11551>). EMNLP 2023.
 
 *    <u><em>Quanyu Long</em></u>, Tianze Luo, Wenya Wang, Sinno Pan. [Domain Confused Contrastive Learning for Unsupervised Domain Adaptation](<https://arxiv.org/abs/2207.04564>). NAACL 2022.
 
