@@ -14,8 +14,8 @@ redirect_from:
 <div align = "center"><img src="images/LA.jpg" height="375" width="333"/> </div>
 
 
-*    I am a third-year Ph.D. student at [Nanyang Technological University (NTU)](http://scse.ntu.edu.sg/Pages/Home.aspx) advised by Prof. [Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/index.html). My research interests include Transfer Learning, and Natural Language Processing.
-*    Before entering NTU, I received my bachelor degree at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), and joined the [Apex Data and Knowledge Management Lab](http://www.apexlab.org/), advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
+*    I am a third-year Ph.D. student at [Nanyang Technological University (NTU)](http://scse.ntu.edu.sg/Pages/Home.aspx) advised by Prof. [Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/index.html). I work closely with Prof. [Wenya Wang](https://personal.ntu.edu.sg/wangwy/). My research interests include Transfer Learning, and Natural Language Processing.
+*    Before entering NTU, I received my bachelor degree at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), admitted to [IEEE Honor class](https://english.seiee.sjtu.edu.cn/english/info/8338.htm) and [Zhiyuan Honor Program](https://en.zhiyuan.sjtu.edu.cn/). I joined the [Apex Data and Knowledge Management Lab](http://www.apexlab.org/), advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
 
 
 Internships
