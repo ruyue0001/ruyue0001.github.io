@@ -30,7 +30,7 @@ Reviewer:
 *    NAACL 2022
 *    AACL 2023
 *    EMNLP 2023
-*    ACL ARR 2023 Oct
+*    ACL ARR 2023 Oct Dec
 
 
 
