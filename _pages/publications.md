@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -8,13 +8,14 @@ author_profile: true
 Preprints
 ---
 
-*    <u><em>Quanyu Long</em></u> $^{\*}$, Yin Wu $^{\*}$, Wenya Wang, Sinno Pan. [Decomposing Label Space, Format and Discrimination: Rethinking How LLMs Respond and Solve Tasks via In-Context Learning](<https://arxiv.org/abs/2404.07546>). Under review.
-
-*    <u><em>Quanyu Long</em></u> $^{\*}$, Yue Deng $^{\*}$, Leilei Gan, Wenya Wang, Sinno Pan. [Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation](<https://arxiv.org/abs/2402.13532v1>). Under review.
+*    <u><em>Quanyu Long</em></u> $^{\*}$, Yue Deng $^{\*}$, Leilei Gan, Wenya Wang, Sinno Pan. [Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation](<https://arxiv.org/abs/2402.13532v1>). 2024.
 
 
 Publications
 ---
+
+*    <u><em>Quanyu Long</em></u> $^{\*}$, Yin Wu $^{\*}$, Wenya Wang, Sinno Pan. [Does In-Context Learning Really Learn? Rethinking How Large Language Models Respond and Solve
+Tasks via In-Context Learning](<https://arxiv.org/abs/2404.07546>). CoLM 2024.
 
 *    <u><em>Quanyu Long</em></u>, Wenya Wang, Sinno Pan. [Adapt in Contexts: Retrieval-Augmented Domain Adaptation via In-Context Learning](<https://arxiv.org/abs/2311.11551>). EMNLP 2023.
 
