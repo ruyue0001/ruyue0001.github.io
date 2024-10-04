@@ -7,6 +7,8 @@ author_profile: true
 
 Preprints
 ---
+*    <u><em>Quanyu Long</em></u>, Jianda Chen, Wenya Wang, Sinno Pan. [Large Language Models Know What Makes Exemplary Contexts](<https://arxiv.org/abs/2408.07505>). 2024.
+
 
 *    <u><em>Quanyu Long</em></u> $^{\*}$, Yue Deng $^{\*}$, Leilei Gan, Wenya Wang, Sinno Pan. [Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation](<https://arxiv.org/abs/2402.13532v1>). 2024.
 

@@ -15,7 +15,7 @@ redirect_from:
 
 
 *    I am a fourth-year Ph.D. student at [Nanyang Technological University (NTU)](http://scse.ntu.edu.sg/Pages/Home.aspx) advised by Prof. [Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/index.html), and closely collaborating with Prof. [Wenya Wang](https://personal.ntu.edu.sg/wangwy/).
-*    My recent research focuses on contextualized augmentations and their applications, particularly in retrieval-augmented language models (RALMs), retrieval with in-context learning (ICL), and aligning retrieval with large language models (LLMs).
+*    My recent research focuses on contextualized augmentations and their applications, particularly in retrieval-augmented language models (RALMs), Graph Retrieval, retrieval with in-context learning (ICL), and aligning retrieval with large language models (LLMs).
 *    Before entering NTU, I received my bachelor degree at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), admitted to [IEEE Honor class](https://english.seiee.sjtu.edu.cn/english/info/8338.htm) and [Zhiyuan Honor Program](https://en.zhiyuan.sjtu.edu.cn/). I joined the [Apex Data and Knowledge Management Lab](http://www.apexlab.org/), advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
 
 
